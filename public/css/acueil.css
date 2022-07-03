@@ -1,0 +1,107 @@
+body{
+    background-image: url("../img/chat_fond_nopir.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+h1{
+    color:white;
+    font-family: Courier New, monospace;
+    font-size: 5.5em;
+    font-size: 5.5rem;
+    font-size: 21px;
+    text-align: center;
+    border: solid 3px white;
+    border-radius: 100px;
+    background-color: black;
+}
+.mission{
+    height: 200px;
+background-color: transparent;
+    color: white;
+    font-family: Courier New, monospace;
+    font-size: 5.5em;
+    font-size: 5.5rem;
+    font-size: 21px;
+    text-align: center;
+    margin-left: 1035px;
+    border: solid 3px white;
+}
+.Action{
+    height: 200px;
+    width: 800px;
+    background-color: transparent;
+    color: white;
+    font-family: Courier New, monospace;
+    font-size: 5.5em;
+    font-size: 5.5rem;
+    font-size: 21px;
+    text-align: center;
+    border: solid 3px white;
+}
+
+.loi{
+    height: 200px;
+    width: 800px;
+    background-color: transparent;
+    color: white;
+    font-family: Courier New, monospace;
+    font-size: 5.5em;
+    font-size: 5.5rem;
+    font-size: 21px;
+    text-align: center;
+    margin-left: 1035px;
+    border: solid 3px white;
+}
+.protéger{
+    height: 250px;
+    width: 1080px;
+    background-color: transparent;
+    color: white;
+    font-family: Courier New, monospace;
+    font-size: 5.5em;
+    font-size: 5.5rem;
+    font-size: 21px;
+    text-align: center;
+    border: solid 3px white;
+}
+span{
+    color: red;
+}
+input{
+    height: 150px;
+    width: 150px;
+    border-radius: 80px;
+    display: flex;
+    justify-content: center;
+    margin-left: 175px;
+    background-color: rgb(100, 9, 100);
+    border: solid 3px white;
+    font-family: Courier New, monospace;
+    font-size: 5.5em;
+    font-size: 5.5rem;
+    font-size: 21px;
+    text-decoration: none;
+    color: black;
+    animation-name: cards;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    animation-duration: 4s;
+    display: flex;
+}
+
+@keyframes cards {
+    0%{
+        background-color:white;
+    }
+    50%{
+        background-color: 	#FFB6C1;
+    }
+    75%{
+        background-color:#FF69B4;
+    }
+    100%{
+        background-color:	#FF1493;
+    }
+}

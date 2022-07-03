@@ -1,0 +1,28 @@
+body{
+    background-image: url("../img/chat_fond_nopir.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+input{
+    height: 150px;
+    width: 150px;
+    border-radius: 80px;
+    display: flex;
+    justify-content: center;
+    margin-left: 175px;
+    background-color: rgb(100, 9, 100);
+    border: solid 3px white;
+    font-family: Courier New, monospace;
+    font-size: 5.5em;
+    font-size: 5.5rem;
+    font-size: 21px;
+    text-decoration: none;
+    color: black;
+    animation-name: cards;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    animation-duration: 4s;
+    display: flex;
+}
