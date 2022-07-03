@@ -26,3 +26,17 @@ input{
     animation-duration: 4s;
     display: flex;
 }
+@keyframes cards {
+    0%{
+        background-color:white;
+    }
+    50%{
+        background-color: 	#FFB6C1;
+    }
+    75%{
+        background-color:#FF69B4;
+    }
+    100%{
+        background-color:	#FF1493;
+    }
+}

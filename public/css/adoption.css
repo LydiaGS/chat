@@ -26,3 +26,149 @@ input{
     animation-duration: 4s;
     display: flex;
 }
+@keyframes cards {
+    0%{
+        background-color:white;
+    }
+    50%{
+        background-color: 	#FFB6C1;
+    }
+    75%{
+        background-color:#FF69B4;
+    }
+    100%{
+        background-color:	#FF1493;
+    }
+}
+h1{
+    color:white;
+    font-family: Courier New, monospace;
+    font-size: 100px;
+    text-align: center;
+    border: solid 3px white;
+}
+.chat{
+    color:white;
+    font-family: Courier New, monospace;
+    font-size: 5.5em;
+    font-size: 5.5rem;
+    font-size: 21px;
+    text-align: center;
+    border: solid 3px white;   
+}
+.chat1{
+    color:white;
+    font-family: Courier New, monospace;
+    font-size: 5.5em;
+    font-size: 5.5rem;
+    font-size: 21px;
+    text-align: center;
+    border: solid 3px white;   
+}
+.chat2{
+    color:white;
+    font-family: Courier New, monospace;
+    font-size: 5.5em;
+    font-size: 5.5rem;
+    font-size: 21px;
+    text-align: center;
+    border: solid 3px white;   
+}
+.chat3{
+    color:white;
+    font-family: Courier New, monospace;
+    font-size: 5.5em;
+    font-size: 5.5rem;
+    font-size: 21px;
+    text-align: center;
+    border: solid 3px white;   
+}
+.chat4{
+    color:white;
+    font-family: Courier New, monospace;
+    font-size: 5.5em;
+    font-size: 5.5rem;
+    font-size: 21px;
+    text-align: center;
+    border: solid 3px white;   
+}
+.chat5{
+    color:white;
+    font-family: Courier New, monospace;
+    font-size: 5.5em;
+    font-size: 5.5rem;
+    font-size: 21px;
+    text-align: center;
+    border: solid 3px white;   
+}
+.chat6{
+    color:white;
+    font-family: Courier New, monospace;
+    font-size: 5.5em;
+    font-size: 5.5rem;
+    font-size: 21px;
+    text-align: center;
+    border: solid 3px white;   
+}
+.chat7{
+    color:white;
+    font-family: Courier New, monospace;
+    font-size: 5.5em;
+    font-size: 5.5rem;
+    font-size: 21px;
+    text-align: center;
+    border: solid 3px white;   
+}
+.chat8{
+    color:white;
+    font-family: Courier New, monospace;
+    font-size: 5.5em;
+    font-size: 5.5rem;
+    font-size: 21px;
+    text-align: center;
+    border: solid 3px white;   
+}
+.chat9{
+    color:white;
+    font-family: Courier New, monospace;
+    font-size: 5.5em;
+    font-size: 5.5rem;
+    font-size: 21px;
+    text-align: center;
+    border: solid 3px white;   
+}
+.chat10{
+    color:white;
+    font-family: Courier New, monospace;
+    font-size: 5.5em;
+    font-size: 5.5rem;
+    font-size: 21px;
+    text-align: center;
+    border: solid 3px white;   
+}
+.chat11{
+    color:white;
+    font-family: Courier New, monospace;
+    font-size: 5.5em;
+    font-size: 5.5rem;
+    font-size: 21px;
+    text-align: center;
+    border: solid 3px white;   
+}
+.chat12{
+    color:white;
+    font-family: Courier New, monospace;
+    font-size: 5.5em;
+    font-size: 5.5rem;
+    font-size: 21px;
+    text-align: center;
+    border: solid 3px white;   
+}
+span{
+    font-size:50px;
+    color: red;
+}
+.btn{
+    display: flex;
+    justify-content: center;
+}
